@@ -3,7 +3,7 @@
 <p align="center">
     <b>Mastering the art of cross-platform and native mobile solutions</b><br><br>
     I'm Nguyen Trung Hai<br>
-    What I do best is <i>"complex state management and custom widget development"</i>, and what I'm passionate about is <i>"exploring LLM and AI technology in mobile applications"</i>.<br>
+    What I do best is <i>specializing in architecting high-performance, stable applications</i> and what I'm passionate about is <i>exploring LLM and AI technology in mobile applications</i>.<br>
     As a mobile developer, I thrive on creating elegant, intuitive cross-platform mobile applications.<br>
     Recently, I've been learning LLM technology and the Langchain framework to incorporate AI into my projects.<br>
     I am committed to delivering high-quality, performant mobile applications that provide exceptional user experiences.<br>
