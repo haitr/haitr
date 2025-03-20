@@ -9,10 +9,10 @@
     I am committed to delivering high-quality, performant mobile applications that provide exceptional user experiences.<br>
     <br>
     <a href="mailto:nghai89@gmail.com">
-        <img src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail&logoColor=white" alt="e-mail">
+        <img src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="e-mail">
     </a>
     <a href="https://github.com/haitr">
-        <img src="https://img.shields.io/badge/GitHub-blue?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin1&logoColor=white" alt="LinkedIn">
     </a>
 </p>
 
